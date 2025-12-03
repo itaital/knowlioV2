@@ -1,0 +1,95 @@
+{
+  "version": "demo-pack-2025-02",
+  "days": [
+    {
+      "languages": {
+        "en": {
+          "quoteOfTheDay": [
+            "Curiosity is the engine that drives every breakthrough. – Ada Lovelace",
+            "Discipline transforms inspiration into reality. – Johann Sebastian Bach",
+            "Big doors swing on small hinges. – W. Clement Stone"
+          ],
+          "interestingKnowledge": [
+            {
+              "title": "Auroras Also Happen on Jupiter",
+              "text": "Jupiter experiences spectacular auroras that dwarf Earth's northern lights. They are triggered not only by the solar wind but also by the planet's intense magnetic field and the volcanic moon Io, which pumps charged particles into space. NASA's Juno spacecraft captured ultraviolet images showing auroral ovals more than twice Earth's diameter, dancing constantly near Jupiter's poles."
+            },
+            {
+              "title": "Glass Flows, But Not in Old Windows",
+              "text": "Centuries-old stained-glass windows often appear thicker at the bottom, leading to the myth that glass is a slow-moving liquid. Modern measurements show glass is rigid at room temperature; the uneven thickness comes from medieval manufacturing techniques. Molten glass was spun into discs and cut into panes, so gravity had nothing to do with the thicker bases seen in cathedrals."
+            },
+            {
+              "title": "Fossil Rain Prints",
+              "text": "Rare sedimentary rocks preserve the impressions of raindrops that fell hundreds of millions of years ago. When a storm hit freshly deposited volcanic ash or fine mud, the splashes created tiny craters. Rapid drying or burial protected the impressions before erosion could erase them. These fossils allow paleoclimatologists to estimate ancient atmospheric density and even the direction of prehistoric winds."
+            },
+            {
+              "title": "Octopus Arms Have Independent Brains",
+              "text": "Each octopus arm contains hundreds of millions of neurons, allowing it to sense and react locally without waiting for signals from the central brain. This decentralized control lets an arm taste surfaces, manipulate objects, and even complete tasks after being temporarily severed. Researchers study octopus neurobiology to design soft robots that respond quickly and flexibly to complex environments."
+            },
+            {
+              "title": "Whales Share Song Ideas",
+              "text": "Male humpback whales learn elaborate songs from neighbors and then spread new verses across ocean basins. Acoustic studies show themes migrating east to west through the South Pacific over several breeding seasons. The cultural transmission resembles human musical trends, demonstrating that some marine mammals maintain traditions and fads that can change entire populations' behavior in just a few years."
+            }
+          ],
+          "whoWereThey": [
+            {
+              "name": "Ada Lovelace",
+              "bio": "An English mathematician considered the first computer programmer for her work on Charles Babbage's Analytical Engine."
+            },
+            {
+              "name": "Johann Sebastian Bach",
+              "bio": "German composer and musician of the Baroque era, renowned for intricate works such as the Brandenburg Concertos."
+            },
+            {
+              "name": "W. Clement Stone",
+              "bio": "American businessman, philanthropist, and author known for popularizing positive mental attitude principles."
+            }
+          ]
+        },
+        "he": {
+          "quoteOfTheDay": [
+            "סקרנות היא המנוע שמניע כל פריצת דרך. – אדה לאבלייס",
+            "משמעת הופכת השראה למציאות. – יוהן סבסטיאן באך",
+            "דלתות גדולות מסתובבות על צירים קטנים. – וו. קלמנט סטון"
+          ],
+          "interestingKnowledge": [
+            {
+              "title": "אורות זוהר גם על צדק",
+              "text": "כוכב הלכת צדק חווה זוהרים מדהימים העולים על הזוהר הצפוני. הם נוצרים לא רק מרוחות השמש אלא גם משדה מגנטי עוצמתי ומהירח הגעשי איו, שמזרים חלקיקים טעונים לחלל. החללית ג'ונו של נאס"ה צילמה תמונות אולטרה-סגולות של טבעות זוהר בקוטר כפול מזה של כדור הארץ, הרוקדות בקביעות סמוך לקטבים."
+            },
+            {
+              "title": "זכוכית לא זורמת בחלונות עתיקים",
+              "text": "חלונות ויטראז' בני מאות שנים נראים לעיתים עבים יותר בבסיסם, מה שהוביל למיתוס שהזכוכית היא נוזל איטי. מדידות מודרניות מראות שזכוכית קשיחה בטמפרטורת החדר; העובי הלא אחיד נובע מטכניקות ייצור מימי הביניים. זכוכית מותכת סובבה לדיסקות ונחתכה ללוחות, כך שלכוח הכבידה לא היה קשר לעובי המשתנה."
+            },
+            {
+              "title": "טביעות מאובנות של גשם",
+              "text": "סלעים משקעים נדירים שומרים את התרשמויות טיפות הגשם שירדו לפני מאות מיליוני שנים. כאשר סערה פגעה באפר וולקני טרי או בבוץ דק, ההתזות יצרו מכתשים זעירים. ייבוש מהיר או קבורה שמרו את ההתרשמויות לפני שהסחיפה מחקה אותן. המאובנים מאפשרים למדוד צפיפות אטמוספרית עתיקה ואף את כיוון הרוחות הפרהיסטוריות."
+            },
+            {
+              "title": "לזרועות תמנון יש מוח משלהן",
+              "text": "בכל זרוע של תמנון יש מאות מיליוני נוירונים, המאפשרים לה לחוש ולהגיב מקומית בלי להמתין לאות מהמוח המרכזי. שליטה מבוזרת זו מאפשרת לזרוע לטעום משטחים, לתמרן חפצים ואפילו להשלים משימות לאחר שנחתכה זמנית. חוקרים בוחנים את נוירוביולוגיית התמנון כדי לפתח רובוטים רכים וגמישים."
+            },
+            {
+              "title": "לווייתנים מחליפים רעיונות לשירים",
+              "text": "לווייתני גדול-סנפיר זכרים לומדים שירים מורכבים משכניהם ואז מפיצים בתים חדשים ברחבי האוקיינוסים. מחקרים אקוסטיים מראים נושאים הנעים ממזרח למערב באוקיינוס השקט הדרומי לאורך עונות רבייה. ההעברה התרבותית דומה לטרנדים מוזיקליים אנושיים וממחישה שמינים ימיים מסוימים מחזיקים מסורות ואופנות המשתנות במהירות."
+            }
+          ],
+          "whoWereThey": [
+            {
+              "name": "אדה לאבלייס",
+              "bio": "מתמטיקאית אנגלייה הנחשבת למתכנתת הראשונה עבור עבודתה על מנוע האנליטי של צ'ארלס בבג'"
+            },
+            {
+              "name": "יוהן סבסטיאן באך",
+              "bio": "מלחין ונגן גרמני מתקופת הבארוק, מוכר בזכות יצירות מורכבות כמו הקונצ'רטי הברנדנבורגיים"
+            },
+            {
+              "name": "וו. קלמנט סטון",
+              "bio": "איש עסקים אמריקאי ופילנתרופ, מוכר בזכות הפצת עקרונות המחשבה החיובית"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

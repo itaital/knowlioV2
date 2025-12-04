@@ -6,7 +6,6 @@ import { useLocalStorage } from './hooks/useLocalStorage';
 import { Language, SUPPORTED_LANGUAGES } from './constants';
 import Feedback from './components/Feedback';
 import { knowlioLogoSvg } from './components/Icon';
-import { refreshDynamicArchive } from './services/contentArchiveLoader';
 
 type View = 'home' | 'history';
 
@@ -20,10 +19,6 @@ function App() {
     if ('Notification' in window) {
       setNotificationPermission(Notification.permission);
     }
-  }, []);
-
-  useEffect(() => {
-    void refreshDynamicArchive();
   }, []);
 
   const requestNotificationPermission = () => {

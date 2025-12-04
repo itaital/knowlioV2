@@ -4,7 +4,6 @@ import { Language } from '../constants';
 import QuoteCard from './QuoteCard';
 import KnowledgeCard from './KnowledgeCard';
 import WhoWereTheyCard from './WhoWereTheyCard';
-import ContentSourcePanel from './ContentSourcePanel';
 
 interface HomeProps {
   language: Language;
@@ -47,7 +46,6 @@ const Home: React.FC<HomeProps> = ({ language }) => {
         <WhoWereTheyCard people={content.whoWereThey} language={language} />
       </div>
 
-      <ContentSourcePanel language={language} bundle={bundle} />
     </div>
   );
 };

@@ -1,6 +1,6 @@
 
 import type { DailyQuoteBundle } from '../types';
-import { getActiveArchive } from './contentArchiveLoader';
+import { CONTENT_ARCHIVE } from '../contentArchive';
 
 /**
  * Calculates the day of the year for a given date, strictly in UTC.
@@ -28,7 +28,7 @@ const getDayOfYearUTC = (date: Date): number => {
  * @returns An object containing the DailyQuoteBundle and its index in the archive.
  */
 export function getBundleForDate(dateStr: string): { bundle: DailyQuoteBundle | null; dayIndex: number } {
-  const archive = getActiveArchive();
+  const archive = CONTENT_ARCHIVE;
   if (!archive || archive.length === 0) {
     console.error("Content archive is empty!");
     return { bundle: null, dayIndex: -1 };

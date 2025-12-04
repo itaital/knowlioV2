@@ -18,6 +18,8 @@ export const SUPPORTED_LANGUAGES = [
     { code: Language.TURKISH, name: 'Türkçe', dir: 'ltr' },
 ];
 
+export const REMOTE_ARCHIVE_URL = '/content/latest.json';
+
 export const FALLBACK_WHO_WERE_THEY: { [key in Language]: WhoPerson[] } = {
     [Language.ENGLISH]: [
         { name: 'Marie Curie', bio: 'A pioneer in radioactivity research, the first woman to win a Nobel Prize, and the only person to win the Nobel Prize in two different scientific fields.' },

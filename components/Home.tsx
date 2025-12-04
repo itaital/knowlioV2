@@ -45,6 +45,7 @@ const Home: React.FC<HomeProps> = ({ language }) => {
         <KnowledgeCard items={content.interestingKnowledge} language={language} />
         <WhoWereTheyCard people={content.whoWereThey} language={language} />
       </div>
+
     </div>
   );
 };
